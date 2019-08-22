@@ -6,6 +6,10 @@
 ## Note
 Most transactions are handled by a backend server, however **transactions related to actual voting need to be performed by voters manually** and hence they need to have their own wallet (the easiest way is to use MetaMask extension in the browser) to sign transactions. Hence to connect to the Azure Blockchain they will have to use "Custom RPC" option in MetaMask and paste the RPC endpoint provided above to be able to interact with the blockchain and the contracts deployed on it. 
 
+## Pre requisites
+You will need to have MetaMask installed into your browser. Or if you are using mobile browser you will need to use a dapp browser. 
+You will also need the uPort app on your phone to receive and share your Voter ID credentials. 
+
 # Decentralised voting on Azure Blockchain
 
 1. Using uPort mobile app to issue Voter ID credentials. These credentials will be in the form of "Verifiable credentials"
