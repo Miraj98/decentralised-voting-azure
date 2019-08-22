@@ -1,3 +1,6 @@
+# Demo
+### You can view the demo at https://miraj98.github.io/azure-voting-client
+
 # Decentralised voting Azure
 
 1. Using uPort mobile app to issue Voter ID credentials. These credentials will be in the form of "Verifiable credentials"
