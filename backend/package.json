@@ -12,7 +12,7 @@
     "cors": "^2.8.5",
     "did-jwt": "^0.2.0",
     "ethers": "^4.0.33",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ngrok": "^3.2.5",
     "uport-credentials": "^1.2.2",
     "uport-transports": "^0.2.6"
